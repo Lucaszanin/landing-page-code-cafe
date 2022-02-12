@@ -51,6 +51,7 @@
     .rodape .logo{
         display: block;
         margin-bottom: 122px;
+        margin: 0 auto;
     }
 
     .rodape ul{
